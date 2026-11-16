@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**IlhamNurMuttaqin/IlhamNurMuttaqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Halo, saya Ilham 👋
 
-Here are some ideas to get you started:
+Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak (Semester 1) yang sedang membangun fondasi kuat di bidang **Fullstack Web Development** dan **Backend Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Teknologi & Bahasa yang Dipelajari
+- **Backend & Scripting:** Python
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
+
+#### 🚀 Fokus Saat Ini
+- Menerapkan dasar-dasar pemrograman yang telah dipelajari untuk meningkatkan skill pemrograman
+- Membangun proyek aplikasi sistem kasir dan manajemen inventaris berbasis CLI menggunakan Python.
+- Memperdalam arsitektur web dinamis menggunakan PHP dan Laravel.
+- Membiasakan penulisan kode yang bersih (*clean code*) dan dokumentasi proyek yang terstruktur.
+
